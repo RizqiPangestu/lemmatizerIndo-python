@@ -5,7 +5,7 @@ This is a port to python of Indonesian lemmatizer created by David Christiandy a
 
 
 
-Thanks to David Christiandy and his friends that originally created this, and my friends Sadhu and Joshua for doing most of the work.
+Thanks to David Christiandy and his friends that originally created this, and my friends Sadhu and Joshua.
 
 
 
